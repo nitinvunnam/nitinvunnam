@@ -1,4 +1,4 @@
-## Hi there my name is Nitin 👋
+##  Hi there my name is Nitin 👋
 
 🌱 I’m currently studying Electrical and Computer Engineering at The University of Texas at Austin
 
