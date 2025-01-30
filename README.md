@@ -2,7 +2,7 @@
 
 🌱 I’m currently studying Electrical and Computer Engineering at The University of Texas at Austin
 
-📫 How to reach me: nitin.vunnam@utexas.edu
+📫 Reach out at nitin.vunnam@utexas.edu
 
 <!--
 **nitinvunnam/nitinvunnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
