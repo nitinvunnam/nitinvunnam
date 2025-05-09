@@ -2,7 +2,7 @@
 
 🌱 I’m currently studying Electrical and Computer Engineering at The University of Texas at Austin 🤘
 
-🔭 Researching power electronics and power systems and working on scaling power grids
+🔭 Researching power electronics and power systems and working on scaling power grids ⚡
 
 📫 Reach out at nitin.vunnam@utexas.edu
 
