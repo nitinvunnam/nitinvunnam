@@ -1,6 +1,6 @@
 ##  Hi there my name is Nitin 👋
 
-🌱 I’m currently studying Electrical and Computer Engineering at The University of Texas at Austin
+🌱 I’m currently studying Electrical and Computer Engineering at The University of Texas at Austin - looking to go into either integrated circuits or computer architecture and embedded systems
 
 📫 Reach out at nitin.vunnam@utexas.edu
 
