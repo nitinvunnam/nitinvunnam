@@ -1,10 +1,12 @@
-##  Hi there my name is Nitin 👋
+## Hi there my name is Nitin 👋
 
 🌱 I’m currently studying Electrical and Computer Engineering at The University of Texas at Austin 🤘
 
 🔭 Researching power electronics and power systems and working on scaling power grids ⚡
 
-📫 Reach out at nitin.vunnam@utexas.edu
+💻 Also starting to learn more about gem5 and looking to contribute to the project
+
+📫 Reach out at nitinvunnam06@gmail.com
 
 <!--
 **nitinvunnam/nitinvunnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
