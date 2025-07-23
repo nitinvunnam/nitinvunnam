@@ -4,8 +4,6 @@
 
 🔭 Researching power electronics and power systems and working on scaling power grids ⚡
 
-💻 Also starting to learn more about gem5 and looking to contribute to the project
-
 📫 Reach out at nitinvunnam06@gmail.com
 
 <!--
