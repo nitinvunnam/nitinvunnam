@@ -2,6 +2,10 @@
 
 🌱 I’m currently studying Electrical and Computer Engineering at The University of Texas at Austin 🤘
 
+🔭 Interested in anything computer architecture or hardware/software co-design related⚡
+
+💬 Previously worked at Amazon Web Services as a Software Development Engineer Intern
+
 📫 Reach out at nitinvunnam06@gmail.com
 
 <!--
